@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @ShaanSaini
-- 👀 I’m interested in Software Engineering of all kinds, novel hardware deployed in a sleek, aesthetically pleasing fashion, and fighting games. Former SFIV player.
+- 👀 I’m interested in Software Engineering of all kinds, novel hardware deployed in sleek, aesthetically pleasing fashions, and last but most certainly not least: Fighting Games. Former SFIV player.
 - 🌱 I’m currently learning The World History of Science @ UCSC!
 - 💞️ I’m looking to collaborate on Software Projects which focus on empowering individuals. Software is the most powerful tool that we can use to help humanity.
-With software, we can create tools to help Individuals.
+With software, we can create tools to empower individuals to achieve whatever goals they wish to achieve. Software is beautiful, and I want to take part in the
+process to help give power to individual people via software creation.
 - 📫 How to reach me: blueberreh@gmail.com
 
 <!---
